@@ -11,7 +11,8 @@ remote_theme: thelehhman/plainwhite-jekyll
 
 plainwhite:
   name: Adrian Kepka
-  tagline: Software Engineer
+  tagline: Senior Software Engineer
+  tagline2: Technical Project Leader
   date_format: "%b %-d, %Y"
 
   social_links:

@@ -1,18 +1,10 @@
 ---
-layout: page
-title: About
-permalink: /about/
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+title: About Me
 ---
+I am an experienced Software Engineer with a high drive for the development of high-quality software. I do not accept slackness, because I have full conviction that it leads to great problems in the future phases of project development. I always induce the best known coding practices and standards fitting for the current team and project I work in - I am often a person responsible for maintaining team/company Coding Standards. Programming is not only my job but also my passion.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Besides software development, I enjoy long walks and training with my Labrador Retriever, Lisa. 
