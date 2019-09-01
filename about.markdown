@@ -9,7 +9,7 @@ I am an experienced Software Engineer with a high drive for the development of h
 
 Besides software development, I enjoy long walks and training with my Labrador Retriever, Lisa. 
 
-You can find my brief resume below (full is available **[here in PDF format](/assets/cv.pdf)**). If you want to contact me please send me a message at **kepka.adrian+blog@gmail.com**.
+You can find my brief resume below (full is available **[here in PDF format](/assets/pdf/Kepka_Adrian_CV_eng.pdf)**). If you want to contact me please send me a message at **kepka.adrian+blog@gmail.com**.
 
 ## Resume
 
