@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Strus155
 github_username:  Strus
+markdown: kramdown
 
 remote_theme: thelehhman/plainwhite-jekyll
 
