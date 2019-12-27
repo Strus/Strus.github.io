@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 gem "minima", "~> 2.5"
+gem "rubyzip", ">= 1.3.0"
 
 gem "github-pages", group: :jekyll_plugins
 
