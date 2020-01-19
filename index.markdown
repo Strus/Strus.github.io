@@ -11,7 +11,7 @@ I am currently a Staff Engineer and Technical Project Leader at **[TiVo](https:/
 
 I am also interested in building and coaching efficient teams. I am involved in the process of maintaining company Coding Standards and I am conducting training about various technical topics on a regular basis.
 
-You can read more about me **[here](/about.html)** and see my recent coding stats below.
+You can read more about me **[here](/about.html)**, check my latests articles in **[Blog](/blog.html)** section, and see my recent coding stats below.
 
 ## My recent coding activity
 <img src="https://wakatime.com/share/@5f26ee6a-68ff-4b9f-a6ac-63b5c3308df9/10598ec9-ba4b-414c-9ff9-616f17d7059f.svg" height="400" width="500">
