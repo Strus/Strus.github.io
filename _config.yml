@@ -11,6 +11,14 @@ show_excerpts: true
 
 remote_theme: thelehhman/plainwhite-jekyll
 
+collections:
+  posts:
+    output: true
+    permalink: /blog/:name
+  drafts:
+    output: true
+    permalink: /draft/:name
+
 plainwhite:
   name: Adrian Kepka
   tagline: Senior Software Engineer
