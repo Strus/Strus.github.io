@@ -16,7 +16,7 @@ collections:
     output: true
     permalink: /blog/:name
   drafts:
-    output: true
+    output: false
     permalink: /draft/:name
 
 plainwhite:
