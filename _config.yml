@@ -3,11 +3,11 @@ email: kepka.adrian@gmail.com
 description: >-
     Adrian Kepka personal site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://adriankepka.pl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Strus155
-github_username:  Strus
 markdown: kramdown
 show_excerpts: true
+google_analytics: G-4GNX3F5XCN
 
 remote_theme: thelehhman/plainwhite-jekyll
 
@@ -21,7 +21,7 @@ collections:
 
 plainwhite:
   name: Adrian Kepka
-  tagline: Senior Software Engineer
+  tagline: Staff Engineer
   tagline2: Technical Project Leader
   date_format: "%b %-d, %Y"
 

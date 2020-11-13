@@ -22,7 +22,7 @@ You can find my brief resume below (full is available **[here in PDF format](/as
     </tr>
     <tr>
         <td style="text-align: center;">TiVo</td>
-        <td style="text-align: center;">Staff Engieer<br>Technical Project Leader</td>
+        <td style="text-align: center;">Staff Engineer<br>Technical Project Leader</td>
         <td style="text-align: center;">07.2019 - present</td>
         <td>
             <ul>
