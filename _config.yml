@@ -21,8 +21,7 @@ collections:
 
 plainwhite:
   name: Adrian Kepka
-  tagline: Staff Engineer
-  tagline2: Technical Project Leader
+  tagline: Software Engineer
   date_format: "%b %-d, %Y"
 
   social_links:
