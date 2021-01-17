@@ -4,7 +4,7 @@ title: Home
 ---
 Hello! My name is **Adrian Kepka**.
 
-I am currently a Staff Engineer and Technical Project Leader at **[TiVo](https://business.tivo.com)**. I've been working on large C/C++ codebases for over 6 years and my goal is to create high quality and maintainable code.
+I am currently a Senior Software Engineer at **[Box](https://www.box.com/en-gb/home)**. I've been working on large C/C++ codebases for over 7 years and my goal is to create high quality and maintainable code.
 
 I am also interested in building and coaching efficient teams. I am involved in the process of maintaining company Coding Standards and I am conducting training about various technical topics on a regular basis.
 
