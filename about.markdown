@@ -18,11 +18,23 @@ You can find my brief resume below (full is available **[here in PDF format](/as
         <th style="width: 50%">Responsibilities</th>
     </tr>
     <tr>
-        <td style="text-align: center;">TiVo</td>
-        <td style="text-align: center;">Staff Engineer<br>Technical Project Leader</td>
-        <td style="text-align: center;">07.2019 - present</td>
+        <td style="text-align: center;">Box</td>
+        <td style="text-align: center;">Senior Software Engineer</td>
+        <td style="text-align: center;">01.2021 - present</td>
         <td>
             <ul>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">TiVo</td>
+        <td style="text-align: center;">Staff Engineer<br>Technical Project Leader</td>
+        <td style="text-align: center;">07.2019 - 12.2020</td>
+        <td>
+            <ul>
+                <li>Development of software for Set-Top Boxes.</li>
+                <li>Technical leader of development teams consisting of 3 - 10 people in various projects - responsible for work planning, features’ technical design, cross-team communication, and synchronization.</li>
+                <li>Role of company's Coding Standards maintainer.</li>
             </ul>
         </td>
     </tr>
