@@ -7,7 +7,8 @@ url: "https://adriankepka.pl" # the base hostname & protocol for your site, e.g.
 markdown: kramdown
 show_excerpts: true
 
-theme: plainwhite
+# theme: plainwhite
+remote_theme: samarsault/plainwhite-jekyll
 
 collections:
   posts:

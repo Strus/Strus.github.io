@@ -79,8 +79,6 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
-    jekyll-seo-tag (2.8.0)
-      jekyll (>= 3.8, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.13.2)
@@ -95,9 +93,6 @@ GEM
     mercenary (0.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    plainwhite (0.13)
-      jekyll (>= 3.7.3)
-      jekyll-seo-tag (>= 2.1.0)
     public_suffix (6.0.2)
     rake (13.3.0)
     rb-fsevent (0.11.2)
@@ -169,7 +164,6 @@ DEPENDENCIES
   jekyll (~> 4.4.1)
   jekyll-feed (~> 0.17.0)
   jekyll-redirect-from
-  plainwhite
   tzinfo-data
   webrick
 
