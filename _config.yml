@@ -1,5 +1,5 @@
 title: Adrian Kepka - adriankepka.pl
-email: kepka.adrian@gmail.com
+email: kepka.adrian+blog@gmail.com
 description: >-
     Adrian Kepka personal site.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -7,7 +7,7 @@ url: "https://adriankepka.pl" # the base hostname & protocol for your site, e.g.
 markdown: kramdown
 show_excerpts: true
 
-remote_theme: thelehhman/plainwhite-jekyll
+theme: plainwhite
 
 collections:
   posts:
@@ -21,6 +21,7 @@ plainwhite:
   name: Adrian Kepka
   tagline: Software Engineer
   date_format: "%b %-d, %Y"
+  dark_mode: true
 
   social_links:
     github:  Strus
